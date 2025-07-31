@@ -34,7 +34,7 @@ const Index = () => {
               variant="glow" 
               size="lg" 
               className="animate-pulse-glow group"
-              onClick={() => window.open('#', '_blank')}
+              onClick={() => window.open('https://instagram.com/iiooio.io', '_blank')}
             >
               <Instagram className="mr-2 h-5 w-5 group-hover:scale-110 transition-transform duration-300" />
               Follow on Instagram
